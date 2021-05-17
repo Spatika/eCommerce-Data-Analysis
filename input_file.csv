@@ -1,0 +1,30 @@
+"Objective - Please plot the data in a suitable chart using python. 
+Provide analysis based on the given formulas
+",,,,,,
+,,,,,,
+Channel name,Paid/Free,Spend in $,Visits,Orders,Revenue in $,Week
+App install network A,Paid,2978,"50,000",550,"32,615",42
+App install network B,Paid,2342,"600,000","7,200","398,160",42
+App install network C,Paid,3345,"500,000","5,000","235,000",42
+Web channel A,Paid,3008,"300,000","3,900","121,680",42
+Web channel B,Paid,600,"30,000",360,"19,584",42
+Web channel C,Paid,88,"50,000",550,"28,930",42
+Newsletters A,Free,90,"60,000",660,"36,432",42
+Newsletters B,Free,98,"250,000","2,750","91,025",42
+PR,Free,76,"25,000",250,"9,900",42
+App install network A,Paid,309,"40,000",715,"39,138",43
+App install network B,Paid,1009,"480,000","9,360","278,712",43
+App install network C,Paid,2398,"450,000","4,000","305,500",43
+Web channel A,Paid,3098,"240,000","2,730","97,344",43
+Web channel B,Paid,600,"21,000",360,"25,459",43
+Web channel C,Paid,688,"35,000",605,"26,037",43
+Newsletters A,Free,78,"48,000",660,"36,432",43
+Newsletters B,Free,90,"325,000","3,575","109,230",43
+PR,Free,55,"25,000",225,"7,920",43
+,,,,,,
+,,,,,,
+,,,,,,
+Information,,,,,,
+Conversion Rate (CR) = Orders/Visits (%),,,,,,
+Average Basket Size (ABS) = Revenue/Orders ($),,,,,,
+Cost to Income Ratio (CIR) = Spend/Revenue ($),,,,,,
