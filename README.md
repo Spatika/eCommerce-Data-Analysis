@@ -6,7 +6,7 @@
  2. plotly.express
 
  Notebook Extensions:
- jupyter_contrib_nbextensions
+ jupyter_contrib_nbextensions > toc2 (for table of contents)
 
  Terminal Commands:
   - conda install -c conda-forge jupyter_contrib_nbextensions
